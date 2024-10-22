@@ -27,5 +27,6 @@ public class NumberFeature {
         }
 
         System.out.println(result);
+        scanner.close();
     }
 }
